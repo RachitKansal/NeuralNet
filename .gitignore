@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+/build/*
+/dist/*
+/Orange3_NeuralNet_Add_on.egg-info/*
+
 # Distribution / packaging
 .Python
 env/
